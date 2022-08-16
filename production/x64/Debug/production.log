@@ -1,0 +1,5 @@
+﻿  production.cpp
+C:\Users\Pritesh\source\repos\sdl\production\production\production.cpp(511,44): warning C4305: 'argument': truncation from 'int' to 'Uint8'
+C:\Users\Pritesh\source\repos\sdl\production\production\production.cpp(511,41): warning C4309: 'argument': truncation of constant value
+C:\Users\Pritesh\source\repos\sdl\production\production\production.cpp(511,31): warning C4309: 'argument': truncation of constant value
+  production.vcxproj -> C:\Users\Pritesh\source\repos\sdl\production\x64\Debug\production.exe
